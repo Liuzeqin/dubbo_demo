@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: dubbo-consumer-demo
+
+server:
+  port: 8999
